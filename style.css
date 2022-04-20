@@ -1,0 +1,36 @@
+.font-titulo{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial{
+    color: #8b0000!important;
+}
+
+.card-largura{
+    max-width: 18rem;
+}
+
+img{
+    max-width: 100%;
+  }
+
+.img-carrossel{
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 400px;
+}
+
+.botao-cor{
+    background-color: #8b0000;
+    color: #fff;
+}
+
+.borda-cor{
+    border-color: #8b0000;
+}
+
+.card-posicao-img{
+    object-fit: cover;
+/*     object-position: 0 60%; */
+    height: 200px;
+}
